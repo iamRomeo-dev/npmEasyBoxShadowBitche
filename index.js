@@ -1,5 +1,5 @@
 function easyBoxShadowBitche(options) {
-  let images = document.querySelectorAll(".shadowBitche");
+  let images = document.querySelectorAll(".easyBoxShadowBitche");
 
   if (options.shadow_type === 'soft') {
     options.shadow_type = "rgba(0, 0, 0, 0.2)";

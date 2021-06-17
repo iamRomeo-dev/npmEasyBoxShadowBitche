@@ -12,6 +12,11 @@ easyBoxShadowBitche({
     padding: true
 })
 ```
+Then...
+
+```
+    <img src="img1.jpg" alt="img1" id="img1" class="shadowBitche">
+```
 
 ## Options
 
