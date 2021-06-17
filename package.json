@@ -1,0 +1,22 @@
+{
+  "name": "easyboxshadowbitche",
+  "version": "1.0.0",
+  "description": "Add cool shadows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamRomeo-dev/npmEasyBoxShadowBitche.git"
+  },
+  "keywords": [
+    "shadows"
+  ],
+  "author": "Romeo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamRomeo-dev/npmEasyBoxShadowBitche/issues"
+  },
+  "homepage": "https://github.com/iamRomeo-dev/npmEasyBoxShadowBitche#readme"
+}
